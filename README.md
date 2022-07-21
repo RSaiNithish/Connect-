@@ -19,7 +19,7 @@ Future plans
 
 Usage
 -----
-1. Run the code ```python peer.py```
+1. Run the code ```python peer.py``` in a terminal
 2. Enter peer (remote machine) IP address
 3. Done!, You are now connected with the peer
 
