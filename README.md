@@ -1,4 +1,4 @@
-CONNECT-CLI
+CONNECT-
 ===========
 
 Overview
